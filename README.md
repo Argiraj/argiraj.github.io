@@ -18,7 +18,7 @@ I love building cool apps and sharing the process with the world. I believe in *
 ### 🛠 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,vscode,androidstudio,git,nodejs,figma,obs,pr" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,vscode,androidstudio,git,nodejs,obs,pr" />
   </a>
 </p>
 
