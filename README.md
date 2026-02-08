@@ -49,7 +49,3 @@ I love building cool apps and sharing the process with the world. I believe in *
 ### 📫 Connect with Me
 <p align="center">
   <a href="[https://youtube.com/@USERNAME_YOUTUBE](https://www.youtube.com/channel/UCpVP6exoJAoSeIbmd9mS-Fg)" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME_KAMU&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
-</p>
