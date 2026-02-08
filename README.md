@@ -24,28 +24,6 @@ I love building cool apps and sharing the process with the world. I believe in *
 
 ---
 
-### 🎥 Latest YouTube Video
-<p align="center">
-  <a href="LINK_VIDEO_TERBARU">
-    <img src="[[https://img.youtube.com/vi/ID_VIDEO_KAMU/0.jpg](https://www.youtube.com/channel/UCpVP6exoJAoSeIbmd9mS-Fg)](https://youtu.be/gnAlHTJmaqA)" alt="Latest Video" width="400" style="border-radius: 15px;" />
-  </a>
-</p>
-
----
-
-### 📊 My Coding Journey
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME_KAMU&theme=tokyonight&no-bg=true&margin-w=4" alt="Trophy" />
-</p>
-
----
-
 ### 📫 Connect with Me
 <p align="center">
   <a href="[https://youtube.com/@USERNAME_YOUTUBE](https://www.youtube.com/channel/UCpVP6exoJAoSeIbmd9mS-Fg)" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
